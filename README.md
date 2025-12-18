@@ -1,5 +1,3 @@
-
-⭐ README.md (Copy–Paste Ready)
 📌 FUTURE_ML_02 — OTT Platform Churn Prediction System
 
 Machine Learning Internship — Future Interns
